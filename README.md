@@ -1,5 +1,7 @@
 # Fabric Example Mod
 
+Update 13/9/2022: Abandoned
+
 ## Setup
 
 For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
